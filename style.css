@@ -1,0 +1,39 @@
+.body{
+    background-color: hsl(0, 0%, 82%);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+h1.rps{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+}
+.choices{
+    margin: 30px;
+}
+.choices button{
+    font-size: 3rem;
+    align-items: center;
+    justify-content: center;
+    border-radius: 60px;
+    cursor: pointer;
+    width: 100px;
+}
+.button:hover{
+    background-color: rgb(194, 192, 192);
+}
+#playerchoice{
+    font-size: 2rem;
+    align-items: center;
+    display: flex;
+    margin-top: 15px;
+}
+#computerchoice{
+    font-size: 2rem;
+}
