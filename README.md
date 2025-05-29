@@ -1,3 +1,5 @@
+![Screenshot 2025-05-29 135105](https://github.com/user-attachments/assets/3b6d7238-710b-41e4-b489-a0f18fe24c39)
+![Screenshot 2025-05-29 135058](https://github.com/user-attachments/assets/c86145a8-4ecb-41ee-83b2-1e75e2d1f407)
 # 🌦️ Weather & AQI App
 
 A simple React app to check **weather** and **air quality index (AQI)** by entering any city name.
@@ -15,7 +17,9 @@ A simple React app to check **weather** and **air quality index (AQI)** by enter
 ---
 
 ## 📸 Preview
-![WhatsApp Image 2025-05-26 at 10 54 39_b00c78b0](https://github.com/user-attachments/assets/d046157b-379d-4a10-870c-858e13cb9103)
+![Screenshot 2025-05-29 135105](https://github.com/user-attachments/assets/f6800dbf-72cc-4cea-9a80-0e16a9e893c5)
+![Screenshot 2025-05-29 135058](https://github.com/user-attachments/assets/978482c2-9d00-498b-ad08-8f8a8258402d)
+
 
 > 
 
