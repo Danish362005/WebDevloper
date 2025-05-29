@@ -15,8 +15,9 @@ A simple React app to check **weather** and **air quality index (AQI)** by enter
 ---
 
 ## 📸 Preview
+![WhatsApp Image 2025-05-26 at 10 54 39_b00c78b0](https://github.com/user-attachments/assets/d046157b-379d-4a10-870c-858e13cb9103)
 
-> *(Add screenshot or demo link if you have one)*
+> 
 
 ---
 
@@ -33,5 +34,5 @@ A simple React app to check **weather** and **air quality index (AQI)** by enter
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/yourusername/weather-aqi-app.git
+git clone https://github.com/Danish362005/weather-aqi-app.git
 cd weather-aqi-app
