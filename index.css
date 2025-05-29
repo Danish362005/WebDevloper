@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    min-height: 100vh;
+    min-width: 100vh;
+    background-image: url(bck2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.btn{
+    font-size: large;
+    background-color: hsl(92, 35%, 47%);
+    text-align: center;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: hsl(92, 35%, 52%);
+}
+.btn2{
+    font-size: 1.2rem;
+    background-color: hsl(55, 76%, 58%);
+    text-align: center;
+    cursor: pointer;
+}
+.btn2:hover{
+    background-color: hsl(55, 76%, 68%);
+}
+.int{
+    font-size: large;
+}
+.box{
+    margin-top: 90px;
+    margin-left: 100px;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.1); 
+    backdrop-filter: blur(8px); 
+    -webkit-backdrop-filter: blur(10px); 
+    border: 1px solid rgba(255, 255, 255, 0.2); 
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2); 
+    border-radius: 10px;
+    width: fit-content;
+    justify-content: center;
+    text-align: center;
+    font-family:  Helvetica, sans-serif;
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+.P1{
+    font-size: 2rem;
+}
